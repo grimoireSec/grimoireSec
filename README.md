@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# $ch0lar's GitHub
+# I'm Jose!
 
 This repository documents the journey of learning and building in code. Focused on CS50X and expanding into development and ethical hacking. Every thing I do here is simply another page in the book of this account.
 
