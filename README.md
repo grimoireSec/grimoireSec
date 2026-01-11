@@ -7,7 +7,7 @@ This repository documents the journey of learning and building in code. Focused 
 ---
 
 ## Current Focus
-- CS50X: Week 9!!! ☕️🗿
+- CS50X: Week 10!!! ☕️🗿
 - Hacking & Development: Scripts, tools, and practical experiments.
 
 ## Skills
