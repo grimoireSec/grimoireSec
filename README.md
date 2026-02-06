@@ -5,9 +5,11 @@
 This repository documents the journey of learning and building in code. Focused on CS50X and expanding into development and ethical hacking. Every thing I do here is simply another page in the book of this account.
 
 ---
+## Certification(s):
+- HarvardX CS50
 
 ## Current Focus
-- CS50X: Week 10!!! ☕️🗿
+- Learning React
 - Hacking & Development: Scripts, tools, and practical experiments.
 
 ## Skills
